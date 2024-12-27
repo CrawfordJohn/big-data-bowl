@@ -5,4 +5,9 @@ srun --pty --partition=hpg-dev --time=3:00:00 --nodes=1 --ntasks=1  --mem=20gb -
 jupyter-notebook --no-browser --ip=0.0.0.0 --port 8888
 
 
-Predict time to throw?
+try model with no balancing
+more features!!!!
+lineman heatmap on plays that caused pressure
+lineman heatmap on plays that do not cause pressure
+filter out plays where the QB holds onto the ball for too long
+
