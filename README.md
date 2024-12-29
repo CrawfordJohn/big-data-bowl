@@ -11,3 +11,8 @@ lineman heatmap on plays that caused pressure
 lineman heatmap on plays that do not cause pressure
 filter out plays where the QB holds onto the ball for too long
 
+
+Thoughts:
+
+- train model on Weeks 1-7 and test on Weeks 8-9
+
