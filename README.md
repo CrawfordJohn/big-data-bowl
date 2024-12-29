@@ -13,6 +13,6 @@ filter out plays where the QB holds onto the ball for too long
 
 
 Thoughts:
-
+- offense formation is almost always shotgun. we need a better way to encode their location
 - train model on Weeks 1-7 and test on Weeks 8-9
 
